@@ -1,0 +1,39 @@
+
+body{
+    margin: 0%;
+    background-color: hsl(212, 45%, 89%);
+    margin: unset;
+    display: grid;
+    place-items: center;
+    height: 100vh;
+}
+
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+.qr-content{
+    font-family: Outfit;
+    padding: 1.075rem;
+    background-color: white ;
+    border-radius: 22px;
+    max-width: 320px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    height: auto;
+    margin: 0.75rem;
+    box-shadow:  
+     
+    
+} 
+p{
+    
+    line-height: 0.90rem;
+    font-size: 14px;
+    margin: 1.075em;
+}
+ 
