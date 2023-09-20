@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    
+
+}
+
+.articles{
+    display: flex;
+   
+}
+
+.article-container{
+    padding: 1.075rem;
+    background-color: aquamarine;    
+    
+}
